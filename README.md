@@ -25,7 +25,7 @@
 
 ## 🔥 Highlight Projects
 
-### 🔍 [Twitter Sentiment Analyzer](https://github.com/Lavanya-Parashar/twitter-sentiment-analyzer)
+### 🔍 [Twitter Sentiment Analyzer]
 > Real-time sentiment analysis using a fine-tuned BERT model integrated with Google’s Gemini API. Scrapes tweets live using Selenium and visualizes sentiments via Streamlit.
 
 - 🔤 Manual & username-based tweet input  
