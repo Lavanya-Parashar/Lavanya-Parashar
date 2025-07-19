@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Lavanya Parashar!
 
-🎓 A Computer Science undergrad with a deep passion for Artificial Intelligence 🤖, Machine Learning 📊, and everything Python 🐍. I love building smart apps that solve real-world problems, and I’m always up for learning new tech 🚀.
+🎓 A Computer Science undergrad with a deep passion for Artificial Intelligence 🤖, Machine Learning 📊, and Python 🐍. I love building smart apps that solve real-world problems, and I’m always up for learning new tech 🚀.
 
 ---
 
